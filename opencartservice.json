@@ -1,0 +1,192 @@
+	{
+	    "total": "11 111.11 kr",
+	    "vat": 420,
+	    "delivery": "0,78kr",
+	    "promoDiscount": true,
+	    "promoMessage": "Applied campaign code: Buy for 200 kr and get 10% off",
+	    "savings": "33 kr",
+	    "count": 6,
+	    "currency": "kr",
+	    "successmessage": "successfully added/removed to/from cart.",
+	    "errormessage": "There is some technical issue. Please try later.",
+	  	"reservedAmountMsg": "Reserverat för viktvaror & kasse (1,50kr/kasse)",
+	    "totalReservedAmount": "10 kr",
+	    "addMoreToCheckout": "Please add more items to the cart to be able to check out.",
+	    "checkOutDisabled": true,
+	    "bulkyItemsList": ["def", "rvw", "123456"],
+	    "slotSelectedType": "pickup",
+	    "isBulkyItemInCart": false,
+	    "isBulkyItemsDeliverySupported": true,
+	    "deliveryPickupStatus": "Ej valt",
+		"applyUserPromotion":{
+			"promotionList":[{
+					"promoTitle" : "10% pa ett helt kop",
+					"promoDescription" : "Galler tom 23/3-15. Max 1 koptillfalle.",	
+					"id" : "promo1",
+					"promoStatus" : false
+				},{
+					"promoTitle" : "5% pa ett helt kop",
+					"promoDescription" : "Galler tom 23/3-15. Max 1 koptillfalle.",
+					"id" : "promo2",
+					"promoStatus" : false
+				}]
+			},
+	    "products": [{
+	        "id": 1,
+	        "prodId": 1,
+	        "skuId": "123456",
+	        "title": "Milk1",
+	        "info": "11.9:90ks/st",
+	        "quantity": 500,
+	        "unit": "st",
+	        "image": "img/products/09/30x35/4000539727009.jpg",
+	        "url": "products/milk",
+	        "substitutionStatus": true,
+	        "price": "5.90 kr",
+	        "listPrice": "7.90 kr",
+	        "comparePrice": 11,
+	        "depositValue": "7.90 kr",
+	        "promotion": [{
+	            "text": "5 kr lower price",
+	            "price": "-19.19 kr"
+	        }, {
+	            "text": "5 kr lower price",
+	            "price": "-19.19 kr"
+	        }, {
+	            "text": "5 kr lower price",
+	            "price": "-19.19 kr"
+	        }],
+
+	        "unitTypeOption": true,
+	        "isWeighted": false,
+	        "maxQuantityReached": true
+	    }, {
+	        "id": 2,
+	        "prodId": 2,
+	        "skuId": "def",
+	        "title": "Yoghurt",
+	        "info": "Yoghurt from northern Sweden",
+	        "quantity": 2,
+	        "unit": "st",
+	        "substitutionStatus": false,
+	        "image": "img/products/10/30x35/3482015035210.jpg",
+	        "url": "products/milk",
+	        "price": "5.90 kr",
+	        "listPrice": "5.90 kr",
+	        "comparePrice": 11,
+	        "weightvolumn": "1 Lt",
+	        "depositValue": "7.90 kr",
+	        "promotion": [{
+	            "text": "5 kr lower price",
+	            "price": "-19.19 kr"
+	        }, {
+	            "text": "5 kr lower price",
+	            "price": "-19.19 kr"
+	        }],
+	        "unitTypeOption": true,
+	        "isWeighted": true
+
+	    }, {
+	        "id": 3,
+	        "prodId": 3,
+	        "skuId": "rvw",
+	        "title": "iPhone",
+	        "info": "Smartphone from Apple, released in 2013",
+	        "quantity": 1,
+	        "unit": "kg",
+	        "image": "img/products/13/30x35/7310240081213.jpg",
+	        "url": "products/iphone",
+	        "price": "399.90 kr",
+	        "listPrice": "429.00 kr",
+	        "comparePrice": 11,
+	        "weightvolumn": "1 Lt",
+	        "promotion": [{
+	            "text": "5 kr lower price",
+	            "price": "-19.19 kr"
+	        }],
+	        "depositValue": "9 kr"
+	    }, {
+	        "id": 4,
+	        "prodId": 4,
+	        "skuId": "xyz",
+	        "title": "iPad",
+	        "info": "Tablet from Apple, released in late 2013",
+	        "quantity": 3,
+	        "unit": "kg",
+	        "image": "img/products/13/30x35/7310861010913.jpg",
+	        "url": "products/iphone",
+	        "url": "products/ipad",
+	        "price": "299.90 kr",
+	        "listPrice": "329.00 kr",
+	        "comparePrice": 11,
+	        "weightvolumn": "1 Lt.",
+	        "depositValue": "5.90 kr"
+	    }, {
+	        "id": 5,
+	        "prodId": 5,
+	        "skuId": "123456",
+	        "title": "Milk1",
+	        "info": "11.9:90ks/st",
+	        "quantity": 4,
+	        "unit": "st",
+	        "image": "img/products/13/30x35/8000430171013.jpg",
+	        "url": "products/milk",
+	        "substitutionStatus": true,
+	        "price": "5.90 kr",
+	        "listPrice": "7.90 kr",
+	        "comparePrice": 11,
+	        "depositValue": "7.90 kr",
+	        "unitTypeOption": true,
+	        "isWeighted": false
+	    }, {
+	        "id": 6,
+	        "prodId": 6,
+	        "skuId": "def",
+	        "title": "Yoghurt",
+	        "info": "Yoghurt from northern Sweden",
+	        "quantity": 2,
+	        "unit": "st",
+	        "substitutionStatus": false,
+	        "image": "img/products/24/30x35/4002448046424.jpg",
+	        "url": "products/milk",
+	        "price": "5.90 kr",
+	        "listPrice": "5.90 kr",
+	        "comparePrice": 11,
+	        "weightvolumn": "1 Lt",
+	        "depositValue": "7.90 kr",
+	        "unitTypeOption": true,
+	        "isWeighted": true
+
+	    }, {
+	        "id": 7,
+	        "prodId": 7,
+	        "skuId": "rvw",
+	        "title": "iPhone",
+	        "info": "Smartphone from Apple, released in 2013",
+	        "quantity": 1,
+	        "unit": "kg",
+	        "image": "img/products/25/30x35/731509532425.jpg",
+	        "url": "products/iphone",
+	        "price": "399.90 kr",
+	        "listPrice": "429.00 kr",
+	        "comparePrice": 11,
+	        "weightvolumn": "1 Lt",
+	        "depositValue": "9 kr"
+	    }, {
+	        "id": 8,
+	        "prodId": 8,
+	        "skuId": "xyz",
+	        "title": "iPad",
+	        "info": "Tablet from Apple, released in late 2013",
+	        "quantity": 3,
+	        "unit": "kg",
+	        "image": "img/products/26/30x35/4001686519226.jpg",
+	        "url": "products/iphone",
+	        "url": "products/ipad",
+	        "price": "299.90 kr",
+	        "listPrice": "329.00 kr",
+	        "comparePrice": 11,
+	        "weightvolumn": "1 Lt.",
+	        "depositValue": "5.90 kr"
+	    }]
+	}
